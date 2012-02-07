@@ -1,0 +1,18 @@
+Game Engineering Fall 2010 
+Prof. Galles
+
+Shark Game!
+
+Works on a keyboard.
+The player can move up, down, left, right. When player moves to the left and right the screen scrolls with the player. 
+
+Shrimp are worth 2pt. and the scuba diver is work 50. To eat shrimp the player collides with them. To kill the scuba diver the player must get the power to shoot. 
+
+To be able to shoot the player must find the pink ball and pick it up. The pink ball will be somewhere between the first screen to 5 screens to the right. The player can then shoot using “A” key. When the scuba is shot he comes back at the scuba starting position. 
+
+The player has 3 lives. 
+
+
+Does not work with game controller yet. Images in this game are google images I transformed. 
+
+To exit press esc key
